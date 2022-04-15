@@ -2,7 +2,7 @@
 name: User Story
 about: Шаблон User Story
 title: ''
-labels: User Story, ТРПО
+labels: User Story
 assignees: SefaWot
 
 ---
